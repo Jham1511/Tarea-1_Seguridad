@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Josue\\Desktop\\Clases\\2026\\Seguridad de la Información\\Tarea#1\\Tarea#1.csproj",
-      "projectName": "Tarea#1",
-      "projectPath": "C:\\Users\\Josue\\Desktop\\Clases\\2026\\Seguridad de la Información\\Tarea#1\\Tarea#1.csproj",
+      "projectUniqueName": "C:\\Users\\Josue\\Desktop\\Clases\\2026\\Seguridad de la Información\\Tarea#1\\Ejercicio3\\Ejercicio3.csproj",
+      "projectName": "Ejercicio3",
+      "projectPath": "C:\\Users\\Josue\\Desktop\\Clases\\2026\\Seguridad de la Información\\Tarea#1\\Ejercicio3\\Ejercicio3.csproj",
       "packagesPath": "C:\\Users\\Josue\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Josue\\Desktop\\Clases\\2026\\Seguridad de la Información\\Tarea#1\\obj\\",
+      "outputPath": "C:\\Users\\Josue\\Desktop\\Clases\\2026\\Seguridad de la Información\\Tarea#1\\Ejercicio3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Josue\\AppData\\Roaming\\NuGet\\NuGet.Config"
